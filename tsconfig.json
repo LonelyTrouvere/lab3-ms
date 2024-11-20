@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "Node16",
+        "strict": true,
+        "esModuleInterop": true,
+        "isolatedModules": true,
+        "noEmit": true,
+        "baseUrl": "./src"
+    }
+}
